@@ -17,3 +17,7 @@ Namun, dalam bahasa java, saya tidak menampilkan total dari seluruh harga proces
 
 
 # Hasil Screenshot
+
+
+![Tampilan c++](https://user-images.githubusercontent.com/99456071/155886119-7cae626f-e991-4f68-9cca-432a51ae9284.jpeg)
+![Tampilan java](https://user-images.githubusercontent.com/99456071/155886125-a13e2cb6-402e-40fd-9196-434e42c88b69.jpeg)
